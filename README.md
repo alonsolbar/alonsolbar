@@ -3,7 +3,7 @@
 - - 🌱 I’m currently learning big data and business intelligence
 - 💞️ I’m looking to collaborate on Programmers who want to improve how they communicate their projects or companies.
 - 📫 How to reach me alonsolbar@gmail.com | www.linkedin.com/in/alonsolbar
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Important fact: I am a journalist, communicator, and researcher. I help communicate projects and companies effectively by understanding their language
 
 <!---
